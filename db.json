@@ -1,0 +1,15 @@
+{
+  "restaurant": [
+    {
+      "precioPlatillo": "450",
+      "nombrePlatillo": "perro puto ",
+      "id": 4
+    },
+    {
+      "nombrePlatillo": "Ensalada Azteca",
+      "precioPlatillo": "128",
+      "categoria": "postre",
+      "id": 5
+    }
+  ]
+}
