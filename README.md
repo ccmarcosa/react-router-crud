@@ -2,7 +2,7 @@
 CRUD con react &amp; react router
 ---
 
-Para ejecutar este proyecto en tu computadora local sigue los siguientes pasos
+Para ejecutar este proyecto en tu computadora local sigue los siguientes pasos:
 
 **1. Clona o descarga el proyecto**
 
